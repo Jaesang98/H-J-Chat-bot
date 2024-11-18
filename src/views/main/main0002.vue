@@ -57,7 +57,7 @@ async function fetchMessage() {
       inpMessage.value = '';
     }
     else{
-      alert("회사내부망이용 및 임현영 연구원을 찾아가세요");
+    alert("회사내부망이용 및 임현영 연구원을 찾아가세요!");
     }
   } catch (error) {
     console.error("Error fetching data:", error);
