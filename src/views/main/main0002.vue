@@ -82,7 +82,7 @@ async function fetchMessage() {
     }
   } 
   catch (error) {
-    alert('임현영 연구원을 찾아가세요');
+    alert('임현영 연구원이 서버를 껏습니다. 절대 클라잘못이 아닙니다');
   } 
   finally {
     isLoading.value = false;
