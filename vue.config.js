@@ -9,5 +9,6 @@ module.exports = defineConfig({
         pathRewrite: { '^/api': '' },
       },
     },
+    https: true,
   },
 });
